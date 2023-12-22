@@ -11,6 +11,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+    margin: 100px auto;
     width: 575px;
     height: 385px;
     background: #1B244A;
